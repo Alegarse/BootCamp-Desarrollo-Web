@@ -35,8 +35,8 @@ Este repositorio está organizado de la siguiente manera:
 ```
 
 ---
-
-## Tecnologías y Herramientas 🛠️<a id="tecnologías-y-herramientas"></a>  
+<a id="tecnologías-y-herramientas"></a>
+## Tecnologías y Herramientas 🛠️  
 A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramientas:  
 
 ### **Frontend**  
@@ -53,8 +53,8 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 - 🧪 **Figma, VSCode**  
 
 ---
-
-## Proyectos Destacados 🌟<a id="proyectos-destacados"></a>
+<a id="proyectos-destacados"></a>
+## Proyectos Destacados 🌟
 Aquí iré destacando los proyectos más importantes que desarrolle durante el bootcamp:  
 
 1. **[Proyecto FrontEnd](#)**  
@@ -64,8 +64,8 @@ Aquí iré destacando los proyectos más importantes que desarrolle durante el b
    _Descripción breve:_ Similar al anterior, destaca el aprendizaje clave y cómo se integró todo lo aprendido en un proyecto completo que incluye FrontEnd y Backend.  
 
 ---
-
-## Contacto 📞<a id="contacto"></a> 
+<a id="contacto"></a>
+## Contacto 📞 
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en contactarme!  
 
 - ✉️ **Correo:** [agscm2@gmail.com](mailto:agscm2@gmail.com)  
