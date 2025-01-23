@@ -1,9 +1,9 @@
-# 🚀 Bootcamp de Desarrollo Web  
+# Bootcamp de Desarrollo Web 🚀 
 ¡Bienvenido a mi repositorio de ejercicios y proyectos del Bootcamp de Desarrollo Web! 🌐 Este espacio recopila todo mi progreso, aprendizaje y código desarrollado durante el programa.  
 
 ---
 
-## 📋 Tabla de Contenidos  
+## Tabla de Contenidos 📋  
 - [Sobre el Bootcamp](#sobre-el-bootcamp)  
 - [Estructura del Repositorio](#estructura-del-repositorio)  
 - [Tecnologías y Herramientas](#tecnologías-y-herramientas)  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌟 Sobre el Bootcamp  
+## Sobre el Bootcamp🌟
 En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web. Estoy aprendiendo tecnologías modernas y buenas prácticas para crear aplicaciones web dinámicas, escalables y atractivas.  
 
 **Objetivos del programa:**  
@@ -22,7 +22,7 @@ En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web
 
 ---
 
-## 📂 Estructura del Repositorio  
+## Estructura del Repositorio 📂 
 Este repositorio está organizado de la siguiente manera:  
 
 ```plaintext
@@ -35,7 +35,7 @@ Este repositorio está organizado de la siguiente manera:
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## Tecnologías y Herramientas 🛠️  
 A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramientas:  
 
 ### **Frontend**  
@@ -53,7 +53,7 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 
 ---
 
-## 🌟 Proyectos Destacados  
+## Proyectos Destacados 🌟
 Aquí iré destacando los proyectos más importantes que desarrolle durante el bootcamp:  
 
 1. **[Nombre del Proyecto 1](#)**  
@@ -64,7 +64,7 @@ Aquí iré destacando los proyectos más importantes que desarrolle durante el b
 
 ---
 
-## 📞 Contacto  
+## Contacto 📞 
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en contactarme!  
 
 - ✉️ **Correo:** [tuemail@example.com](mailto:tuemail@example.com)  
