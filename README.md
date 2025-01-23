@@ -31,6 +31,7 @@ Este repositorio está organizado de la siguiente manera:
 ├── 📁 proyectos           # Proyectos destacados desarrollados durante el bootcamp  
 ├── 📁 recursos            # Documentos, enlaces útiles y notas personales  
 ├── README.md              # Este archivo  
+```
 
 ---
 
