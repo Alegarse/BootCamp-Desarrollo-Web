@@ -41,7 +41,7 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 ### **Frontend**  
 - 🖌️ **HTML5, CSS3**  
 - 🎨 **Sass, TailwindCSS**  
-- ⚛️ **React.js**  
+- ⚛️ **React.js** 
 
 ### **Backend**  
 - 🔧 **Node.js, Express.js**  
