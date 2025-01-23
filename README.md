@@ -50,18 +50,21 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 
 ### **Otros**  
 - 🖥️ **Git, GitHub**  
-- 🧪 **Figma, VSCode**  
+- 🧪 **Figma, VSCode, Kotlin**  
 
 ---
 <a id="proyectos-destacados"></a>
 ## Proyectos Destacados 🌟
-Aquí iré destacando los proyectos más importantes que desarrolle durante el bootcamp:  
+Aquí iré destacando los proyectos más importantes que desarrolle durante el Bootcamp:  
 
-1. **[Proyecto FrontEnd](#)**  
-   _Descripción breve:_ Incluye los conceptos aprendidos, tecnologías aplicadas y objetivos alcanzados en la parte de FrontEnd.  
+1. **[Proyecto Integral Full Stack (Front End y Back End)](#)**  
+   _Descripción breve:_ Incluye los conceptos aprendidos, tecnologías aplicadas y objetivos alcanzados a nivel Full Stack.  
 
-2. **[Proyecto Final](#)**  
-   _Descripción breve:_ Similar al anterior, destaca el aprendizaje clave y cómo se integró todo lo aprendido en un proyecto completo que incluye FrontEnd y Backend.  
+2. **[Proyecto en equipo](#)**  
+   _Descripción breve:_ Similar al anterior, destaca el aprendizaje con preparación y simulación de pruebas técnicas.
+
+3. **[Proyecto de Especialización](#)**  
+   _Descripción breve:_ Destaca el aprendizaje de desarrollo de una app en Android Studio con Kotlin.  
 
 ---
 <a id="contacto"></a>
