@@ -26,10 +26,11 @@ En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web
 Este repositorio está organizado de la siguiente manera:  
 
 ```plaintext
-📦 MiRepoBootcamp  
+📦 Bootcamp-Desarrollo-Web  
 ├── 📁 ejercicios          # Ejercicios prácticos del día a día  
 ├── 📁 proyectos           # Proyectos destacados desarrollados durante el bootcamp  
 ├── 📁 recursos            # Documentos, enlaces útiles y notas personales
+├── .gitignore             # Exclusiones del control de versiones
 ├── LICENSE                # Licencia del contenido del repositorio  
 ├── README.md              # Este archivo  
 ```
