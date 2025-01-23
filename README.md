@@ -12,7 +12,8 @@
 
 ---
 
-## Sobre el Bootcamp🌟
+## Sobre el Bootcamp 🌟
+<a id="sobre-el-bootcamp"></a>
 En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web. Estoy aprendiendo tecnologías modernas y buenas prácticas para crear aplicaciones web dinámicas, escalables y atractivas.  
 
 **Objetivos del programa:**  
@@ -22,7 +23,8 @@ En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web
 
 ---
 
-## Estructura del Repositorio📂 
+## Estructura del Repositorio 📂
+<a id="estructura-del-repositorio"></a> 
 Este repositorio está organizado de la siguiente manera:  
 
 ```plaintext
@@ -36,7 +38,8 @@ Este repositorio está organizado de la siguiente manera:
 
 ---
 
-## Tecnologías y Herramientas🛠️  
+## Tecnologías y Herramientas 🛠️
+<a id="tecnologías-y-herramientas"></a>  
 A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramientas:  
 
 ### **Frontend**  
@@ -54,7 +57,8 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 
 ---
 
-## Proyectos Destacados🌟
+## Proyectos Destacados 🌟
+<a id="proyectos-destacados"></a>
 Aquí iré destacando los proyectos más importantes que desarrolle durante el bootcamp:  
 
 1. **[Proyecto FrontEnd](#)**  
@@ -65,7 +69,8 @@ Aquí iré destacando los proyectos más importantes que desarrolle durante el b
 
 ---
 
-## Contacto📞 
+## Contacto 📞
+<a id="contacto"></a> 
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en contactarme!  
 
 - ✉️ **Correo:** [agscm2@gmail.com](mailto:agscm2@gmail.com)  
