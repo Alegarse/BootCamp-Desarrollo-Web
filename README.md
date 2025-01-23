@@ -68,8 +68,8 @@ Aquí iré destacando los proyectos más importantes que desarrolle durante el b
 ## Contacto 📞 
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en contactarme!  
 
-- ✉️ **Correo:** [agscm2@gmail.com](mailto:agscm2@gmail.com)  
-- 💼 **LinkedIn:** [alegarse](https://www.linkedin.com/in/alegarse/)  
+- ✉️ **Correo:** [agscm2@gmail.com](mailto:agscm2@gmail.com)
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/alegarse/" target="_blank">alegarse</a>  
 
 ---
 
