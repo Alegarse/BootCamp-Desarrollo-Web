@@ -1,0 +1,34 @@
+/** 
+ * Reset Styles 
+ */
+@import "/css/generic/reset.css";
+
+/**
+ * Base Styles
+ */
+ @import "/css/generic/layout.css";
+ @import "/css/settings/vars.css";
+ @import "/css/components/buttons.css";
+ @import "/css/elements/header.css";
+ @import "/css/elements/footer.css";
+
+/**
+ * WebPage Index Styles
+ */
+@import "/css/elements/hero-banner.css";
+@import "/css/elements/our-menu.css";
+@import "/css/elements/about-us.css";
+@import "/css/elements/services.css";
+@import "/css/elements/food-delivery.css";
+@import "/css/elements/opinions.css";
+@import "/css/elements/blog.css";
+
+
+/**
+ * WebPage Recipe Styles
+ */
+@import "/css/elements/recipe.css";
+@import "/css/elements/recipe-header.css";
+@import "/css/elements/recipe-ingredients.css";
+@import "/css/elements/recipe-instructions.css";
+@import "/css/elements/recipe-adds.css";

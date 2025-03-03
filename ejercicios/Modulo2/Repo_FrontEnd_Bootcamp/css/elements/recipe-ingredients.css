@@ -1,0 +1,71 @@
+.recipe-body {
+    display: flex;
+    color: #182226;
+    max-width: 81rem;
+}
+
+.recipe-ingredients {
+    display: flex;
+    flex-direction: column;
+}
+
+.recipe-ingredients-title {
+    max-width: 28.81rem;
+    font-size: 3.437rem;
+    font-weight: 500;
+    margin-bottom: 1.25rem;
+}
+
+.recipe-ingredient {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+.recipe-ingredient {
+    margin-bottom: 1.25rem;
+    gap: 1.25rem;
+}
+
+.recipe-title {
+    font-weight: 600;
+}
+
+.title1 {
+    margin-bottom: 3.125rem;
+}
+
+.title2 {
+    margin: 3rem 0;
+}
+
+.ingredients {
+    font-size: 1.25rem;
+    font-weight: 500;
+    max-width: 19.375rem;
+}
+.recipe-checkbox {
+    display: inline-flex;
+    align-items: center;
+    gap: 1.25rem;
+    width: 100%;
+}
+
+.recipe-checkbox input[type="checkbox"] {
+    appearance: none;
+    border: 0.125rem solid;
+    width: 25.8px;
+    height: 1.6125rem;
+    padding: 1.2px;
+    border-radius: 50%;
+    color: var(--color-primary);
+}
+
+.recipe-checkbox input[type="checkbox"]:checked {
+    content: url(../../img/box.svg);
+    appearance: none;
+    border: none;
+    width: 1.6125rem;
+    height: 1.6125rem;
+}

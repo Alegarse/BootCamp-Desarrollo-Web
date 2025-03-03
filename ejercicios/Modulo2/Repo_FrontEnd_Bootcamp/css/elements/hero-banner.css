@@ -1,0 +1,30 @@
+.hero-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:linear-gradient(rgb(255 255 255 / 0.5), rgb(255 255 255 / 0.5)), url("../../img/hero-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-banner-content {
+    max-width: 41.25rem;
+    padding: 12.5rem 0;
+    text-align: center;
+}
+
+.hero-banner-title {
+    font-size: 6.25rem;
+    color: var(--color-dark-grey);
+}
+
+.hero-banner-description {
+    font-size: 1.25rem;
+    margin: 1.5rem 0 2.5rem;
+}
+
+.hero-banner-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}

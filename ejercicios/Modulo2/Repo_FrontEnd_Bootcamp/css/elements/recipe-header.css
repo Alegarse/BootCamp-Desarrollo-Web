@@ -1,0 +1,11 @@
+.recipe-header-title {
+    font-size: 3.437rem;
+    text-align: center;
+    max-width: 64.375rem;
+    color: #182226;
+}
+
+.recipe-header-img {
+    max-width: 87.875rem;
+    border-radius: 0.75rem 0.75rem 0 0;
+}

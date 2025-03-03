@@ -1,0 +1,81 @@
+.about-us {
+    display: flex;
+    padding: 7.5rem 9.5rem;
+}
+.about-us > div {
+    width: 50%;
+}
+
+.about-us-info {
+    position: relative;
+}
+
+.about-us-info-box {
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    width: 100%;
+    padding: 3.125rem;
+    background-color: var(--color-dark-grey);
+    color: var(--color-white);
+    gap: 1.5625rem;
+    bottom: -3.125rem;
+    right: 0;
+    max-width: 25.6875rem;
+    border-radius: 0.75rem;
+}
+
+.about-us-info-box-title {
+    margin-block-end: 1.25rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 125%;
+}
+
+.about-us-info-box-phone::before {
+    content: url("../../img/phone.svg");
+}
+
+.about-us-info-box-mail::before {
+    content: url("../../img/mail.svg");
+}
+
+.about-us-info-box-address::before {
+    content: url("../../img/location-marker.svg");
+}
+
+.about-us-info-box-phone,
+.about-us-info-box-mail,
+.about-us-info-box-address {
+    display: flex;
+    gap: 1.25rem;
+    &::before {
+        height: 100%;
+        aspect-ratio: 1;
+    }
+}
+
+.about-us-text {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding-inline-start: 5.625rem;
+}
+
+.about-us-title {
+    font-size: 3.4375rem;
+    font-weight: 500;
+    line-height: 125%;
+    color: var(--color-font);
+}
+
+.about-us-desc-main {
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 150%;
+    color: var(--color-font);
+}
+
+.about-us-link  {
+    width: fit-content;
+}

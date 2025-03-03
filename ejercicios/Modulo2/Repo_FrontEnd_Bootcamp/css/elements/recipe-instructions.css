@@ -1,0 +1,43 @@
+.recipe-instructions {
+    display: flex;
+    flex-direction: column;
+    max-width: 55.5625rem;
+    padding-left: 3rem;
+    gap: 3rem;
+}
+
+.recipe-instructions-title {
+    font-family: var(--font-text);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    line-height: 125%;
+    letter-spacing: -0.045rem;
+}
+
+.recipe-instructions-text {
+    font-family: var(--font-text);
+    margin-bottom: 2.5rem;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 155.556%;
+}
+
+.recipe-instructions li {
+    font-size: 1.125rem;
+    margin-left: 1.5rem;
+}
+
+.recipe-instructions a,
+ol li::marker {
+    font-weight: 700;
+}
+.group-two {
+    padding-top: 3rem;
+}
+
+.recipe-instructions img {
+    border-radius: 0.75rem;
+    width: 55.5625rem;
+    height: 28rem;
+}
