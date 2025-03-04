@@ -1,6 +1,5 @@
 console.log("Ejercicio 3.1. Detectar si una palabra o frase es un palíndromo")
-//const phrase = prompt("Introduzca una palabra o frase para verificar si es palíndromo", "Dábale arroz a la zorra el abad")
-const phrase = "Dábale arroz a la zorra el abad"
+const phrase = prompt("Introduzca una palabra o frase para verificar si es palíndromo", "Dábale arroz a la zorra el abad")
 let string1 = '';
 let string2 = '';
 
