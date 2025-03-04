@@ -1,9 +1,9 @@
 console.log("Ejercicio 1. Determinar si un número es positivo, negativo o cero:")
 const number = -34
 if (number < 0) {
-    console.log(`${number} es un número negativo`)
+    console.log(`${number} is a negative number`)
 } else if (number === 0) {
-    console.log(`${number} es igual a cero`)
+    console.log(`${number} is equal to zero`)
 } else {
-    console.log(`${number} es un número positivo`)
+    console.log(`${number} is a negatiuve number`)
 }

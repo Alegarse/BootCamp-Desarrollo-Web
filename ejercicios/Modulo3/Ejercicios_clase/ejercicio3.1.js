@@ -1,5 +1,5 @@
 console.log("Ejercicio 3.1. Detectar si una palabra o frase es un palíndromo")
-const phrase = prompt("Introduzca una palabra o frase para verificar si es palíndromo", "Dábale arroz a la zorra el abad")
+const phrase = prompt("Enter a phrase or word to check if is a palindrome", "Dábale arroz a la zorra el abad")
 let string1 = '';
 let string2 = '';
 
@@ -8,7 +8,7 @@ function phraseLowerWithOutSpacesAndAcents(text) {
      * ================================================================================================================
      * PATRON REGEX
      * ================================================================================================================
-     * Es un patron así llamado apra búsquedas
+     * Es un patron así llamado para búsquedas
      * Siempre empieza por /
      * Lo que queramos buscar va entre []
      * Iniciamos patron de búsqueda con \ y después lo que queramos buscar, en este caso u para buscar carácter unicode
@@ -67,9 +67,9 @@ function reverseString(string) {
 
 function checkPalindrom(string1, string2) {
     if (string1 === string2) {
-        console.log(`"${phrase}" es un palíndromo`)
+        console.log(`"${phrase}" is palindrome`)
     } else {
-        console.log(`"${phrase}" no es un palíndromo`)
+        console.log(`"${phrase}" isn't palindrome`)
     }
     return
 }
