@@ -1,4 +1,3 @@
-console.log("Ejercicio 1. Suma de dos números:")
 const numero1 = 7
 const numero2 = 5
 const suma = numero1 + numero2

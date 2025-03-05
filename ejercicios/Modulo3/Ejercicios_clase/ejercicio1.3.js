@@ -1,4 +1,3 @@
-console.log("Ejercicio 3. Cálculo del promedio:")
 const nota1 = 6.8
 const nota2 = 7.2
 const nota3 = 4.3

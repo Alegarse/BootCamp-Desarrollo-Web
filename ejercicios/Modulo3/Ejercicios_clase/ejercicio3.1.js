@@ -1,4 +1,3 @@
-console.log("Ejercicio 3.1. Detectar si una palabra o frase es un palíndromo")
 const phrase = prompt("Enter a phrase or word to check if is a palindrome", "Dábale arroz a la zorra el abad")
 let string1 = '';
 let string2 = '';
