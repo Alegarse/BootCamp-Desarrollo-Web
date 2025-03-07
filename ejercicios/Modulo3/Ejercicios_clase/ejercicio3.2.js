@@ -13,4 +13,4 @@ function fibonacci(num) {
     return (fibonacci(num-2)+fibonacci(num-2));
 }
 
-fibonacci(6);
+console.log(fibonacci(6));
