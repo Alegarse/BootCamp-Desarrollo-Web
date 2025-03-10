@@ -61,7 +61,8 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
    1.2. **[Portfolio](https://github.com/Alegarse/portfolio)** - _Desarrollo de un portfolio inicial en HTML y CSS_
 
 2. **MODULO JAVASCRIPT**  
-   2.1. **[Práctica Avanzada BC XVII](https://github.com/Alegarse/bc17-mod3-js-advanced-practice)** - _Ejercicios de práctica de los temas_
+   2.1. **[Ejercicios BC XVII](https://github.com/Alegarse/bc17-mod3-js-exercises)** - _Ejercicios de los temas_
+   2.2. **[Prácticas avanzadas BC XVII](https://github.com/Alegarse/bc17-mod3-js-advanced-practice)** - _Prácticas avanzadas de los temas_
     
 
 ---
