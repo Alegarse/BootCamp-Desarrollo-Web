@@ -57,10 +57,10 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 ## Proyectos Realizados 🌟
 Aquí iré destacando los proyectos más importantes que se desarrollen durante el Bootcamp:  
 
-1. **[HTML/CSS Web Page](#https://github.com/Alegarse/web_html_css)**  
+1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)**  
    _Descripción breve:_ Replicación de un proyecto Figma para aprendizaje de HMTL y CSS.  
 
-2. **[Portfolio](#https://github.com/Alegarse/portfolio)**  
+2. **[Portfolio](https://github.com/Alegarse/portfolio)**  
    _Descripción breve:_ Desarrollo de un portfolio inicial en HTML y CSS.
 
 3. **[Proyecto de Especialización](#)**  
