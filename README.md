@@ -7,7 +7,8 @@
 - [Sobre el Bootcamp](#sobre-el-bootcamp)  
 - [Estructura del Repositorio](#estructura-del-repositorio)  
 - [Tecnologías y Herramientas](#tecnologías-y-herramientas)  
-- [Proyectos Destacados](#proyectos-destacados)  
+- [Proyectos Realizados](#proyectos-realizados)
+- [Repositorios de código](#code-repos)  
 - [Contacto](#contacto)  
 
 ---
@@ -27,12 +28,10 @@ Este repositorio está organizado de la siguiente manera:
 
 ```plaintext
 📦 Bootcamp-Desarrollo-Web  
-├── 📁 ejercicios          # Ejercicios prácticos del día a día  
-├── 📁 proyectos           # Proyectos destacados desarrollados durante el bootcamp  
 ├── 📁 recursos            # Documentos, enlaces útiles y notas personales
 ├── .gitignore             # Exclusiones del control de versiones
 ├── LICENSE                # Licencia del contenido del repositorio  
-├── README.md              # Este archivo  
+├── README.md              # Este archivo con indexado de repositorios
 ```
 
 ---
@@ -54,18 +53,23 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 - 🧪 **Figma, VSCode, Kotlin**  
 
 ---
-<a id="proyectos-destacados"></a>
-## Proyectos Destacados 🌟
-Aquí iré destacando los proyectos más importantes que desarrolle durante el Bootcamp:  
+<a id="proyectos-realizados"></a>
+## Proyectos Realizados 🌟
+Aquí iré destacando los proyectos más importantes que se desarrollen durante el Bootcamp:  
 
-1. **[Proyecto Integral Full Stack (Front End y Back End)](#)**  
-   _Descripción breve:_ Incluye los conceptos aprendidos, tecnologías aplicadas y objetivos alcanzados a nivel Full Stack.  
+1. **[HTML/CSS Web Page](#https://github.com/Alegarse/web_html_css)**  
+   _Descripción breve:_ Replicación de un proyecto Figma para aprendizaje de HMTL y CSS.  
 
-2. **[Proyecto en equipo](#)**  
-   _Descripción breve:_ Similar al anterior, destaca el aprendizaje con preparación y simulación de pruebas técnicas.
+2. **[Portfolio](#https://github.com/Alegarse/portfolio)**  
+   _Descripción breve:_ Desarrollo de un portfolio inicial en HTML y CSS.
 
 3. **[Proyecto de Especialización](#)**  
    _Descripción breve:_ Destaca el aprendizaje de desarrollo de una app en Android Studio con Kotlin.  
+
+---
+<a id="proyectos-realizados"></a>
+## Repositorios de código 🌟
+Aquí están dispnibles los repositorios con el código de aprendizaje de cada uno de los módulos:
 
 ---
 <a id="contacto"></a>
