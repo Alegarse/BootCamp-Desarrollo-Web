@@ -60,8 +60,8 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
    1.1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)** - _Replicación de un proyecto Figma para aprendizaje de HMTL y CSS_  
    1.2. **[Portfolio](https://github.com/Alegarse/portfolio)** - _Desarrollo de un portfolio inicial en HTML y CSS_
 
-2. **MODULO JAVASCRIPT**
-    2.1. **[Práctica Avanzada BC XVII](https://github.com/Alegarse/bc17-mod3-js-advanced-practice)** - _Ejercicios de práctica de los temas_
+2. **MODULO JAVASCRIPT**  
+   2.1. **[Práctica Avanzada BC XVII](https://github.com/Alegarse/bc17-mod3-js-advanced-practice)** - _Ejercicios de práctica de los temas_
     
 
 ---
