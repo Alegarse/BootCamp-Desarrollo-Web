@@ -7,8 +7,7 @@
 - [Sobre el Bootcamp](#sobre-el-bootcamp)  
 - [Estructura del Repositorio](#estructura-del-repositorio)  
 - [Tecnologías y Herramientas](#tecnologías-y-herramientas)  
-- [Proyectos Realizados](#proyectos-realizados)
-- [Repositorios de código](#code-repos)  
+- [Repositorios y Proyectos Realizados](#repos-realizados)
 - [Contacto](#contacto)  
 
 ---
@@ -53,23 +52,16 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 - 🧪 **Figma, VSCode, Kotlin**  
 
 ---
-<a id="proyectos-realizados"></a>
+<a id="repos-realizados"></a>
 ## Proyectos Realizados 🌟
-Aquí iré destacando los proyectos más importantes que se desarrollen durante el Bootcamp:  
+Aquí iré destacando los repositorios con el código de aprendizaje de cada uno de los módulos y los proyectos más importantes que se desarrollen durante el Bootcamp:  
 
-1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)**  
-   _Descripción breve:_ Replicación de un proyecto Figma para aprendizaje de HMTL y CSS.  
-
-2. **[Portfolio](https://github.com/Alegarse/portfolio)**  
-   _Descripción breve:_ Desarrollo de un portfolio inicial en HTML y CSS.
-
-3. **[Proyecto de Especialización](#)**  
-   _Descripción breve:_ Destaca el aprendizaje de desarrollo de una app en Android Studio con Kotlin.  
-
----
-<a id="proyectos-realizados"></a>
-## Repositorios de código 🌟
-Aquí están dispnibles los repositorios con el código de aprendizaje de cada uno de los módulos:
+1. **MODULO HTML y CSS**
+   1.1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)** - _Replicación de un proyecto Figma para aprendizaje de HMTL y CSS_
+   1.2. **[Portfolio](https://github.com/Alegarse/portfolio)** - _Desarrollo de un portfolio inicial en HTML y CSS_  
+2. **MODULO JAVASCRIPT**
+   2.1. **[Práctica Avanzada BC XVII](https://github.com/Alegarse/bc17-mod3-js-advanced-practice)** - _Ejercicios de práctica de los temas_
+    
 
 ---
 <a id="contacto"></a>
