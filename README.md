@@ -49,7 +49,7 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 
 ### **Otros**  
 - 🖥️ **Git, GitHub**  
-- 🧪 **Figma, VSCode, Kotlin**  
+- 🧪 **Figma, VSCode, Kotlin, Python**  
 
 ---
 <a id="repos-realizados"></a>
