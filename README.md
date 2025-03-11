@@ -62,9 +62,9 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
 
 2. **MODULO JAVASCRIPT**  
    2.1. **[Ejercicios básicos](https://github.com/Alegarse/B17-mod3-js-basic-exercises)** - _Ejercicios básicos de los temas_ - [Ver Online](http://js-basic-exercises.arenalsoft.es/)  
-   2.2. **[Ejercicios avanzados](https://github.com/Alegarse/B17-mod3-js-advance-exercises)** - _Ejercicios avanzados de los temas_  
-   2.3. **[Prácticas básicas](https://github.com/Alegarse/B17-mod3-js-basic-practice) - PRIVATE - Need Auth**    
-   2.4. **[Prácticas avanzadas](https://github.com/Alegarse/B17-mod3-js-advance-practice) - PRIVATE - Need Auth**  
+   2.2. **[Ejercicios avanzados](https://github.com/Alegarse/B17-mod3-js-advance-exercises)** - _Ejercicios avanzados de los temas_ - [Ver Online](http://js-advance-exercises.arenalsoft.es/)  
+   2.3. **[Prácticas básicas](https://github.com/Alegarse/B17-mod3-js-basic-practice) - PRIVATE - Need Auth** - [Ver Online](http://js-basic-practice.arenalsoft.es/)    
+   2.4. **[Prácticas avanzadas](https://github.com/Alegarse/B17-mod3-js-advance-practice) - PRIVATE - Need Auth** - [Ver Online](http://js-advance-practice.arenalsoft.es/)  
     
 
 ---
