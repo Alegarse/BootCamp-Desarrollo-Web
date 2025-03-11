@@ -57,11 +57,11 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 Aquí iré destacando los repositorios con el código de aprendizaje de cada uno de los módulos y los proyectos más importantes que se desarrollen durante el Bootcamp:  
 
 1. **MODULO HTML y CSS**  
-   1.1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)** - _Replicación de un proyecto Figma para aprendizaje de HMTL y CSS_  
-   1.2. **[Portfolio](https://github.com/Alegarse/portfolio)** - _Desarrollo de un portfolio inicial en HTML y CSS_
+   1.1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)** - _Replicación de un proyecto Figma para aprendizaje de HMTL y CSS_ - [Ver Online](http://web-html-css.arenalsoft.es/)   
+   1.2. **[Portfolio](https://github.com/Alegarse/portfolio)** - _Desarrollo de un portfolio inicial en HTML y CSS_ - [Ver Online](http://alejandrogarciaserrano.es) 
 
 2. **MODULO JAVASCRIPT**  
-   2.1. **[Ejercicios básicos](https://github.com/Alegarse/B17-mod3-js-basic-exercises)** - _Ejercicios básicos de los temas_ - [Ver Online](http://82.223.217.92/js-basic/)  
+   2.1. **[Ejercicios básicos](https://github.com/Alegarse/B17-mod3-js-basic-exercises)** - _Ejercicios básicos de los temas_ - [Ver Online](http://js-basic-exercises.arenalsoft.es/)  
    2.2. **[Ejercicios avanzados](https://github.com/Alegarse/B17-mod3-js-advance-exercises)** - _Ejercicios avanzados de los temas_  
    2.3. **[Prácticas básicas](https://github.com/Alegarse/B17-mod3-js-basic-practice) - PRIVATE - Need Auth**    
    2.4. **[Prácticas avanzadas](https://github.com/Alegarse/B17-mod3-js-advance-practice) - PRIVATE - Need Auth**  
