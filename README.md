@@ -1,6 +1,7 @@
 # Bootcamp de Desarrollo Web CodeSpace XVII🚀 
 ¡Bienvenido a mi repositorio de ejercicios y proyectos del Bootcamp de Desarrollo Web! 🌐 Este espacio recopila todo mi progreso, aprendizaje y código desarrollado durante el programa.  
-
+---
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma,vscode,kotlin,py)](https://skillicons.dev)
 ---
 
 ## Tabla de Contenidos📋  
