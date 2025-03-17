@@ -1,1 +1,0 @@
-En este curso aprenderemos todo lo basico de git%
